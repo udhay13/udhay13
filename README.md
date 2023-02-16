@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Udhayasurya</h1>
 <h3 align="left">Frond End Developer</h3>
 <h4 align="left">I'm a passionate and self-motivated person who is very enthusiastic about acquiring new skills and upgrading my knowledge. I am eager to learn, grow, and contribute my unique blend of business and technical acumen to a dynamic and vibrant organization.</h4>
-<img align="right" alt="Coding" width="170" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding" width="165" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhay13&label=Profile%20views&color=0e75b6&style=flat" alt="udhay13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhay13" alt="udhay13" /></a> </p>
@@ -30,7 +30,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/udhay13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udhay13" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhay13&show_icons=true&locale=en&layout=compact" alt="udhay13" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udhay13&show_icons=true&locale=en&layout=compact" alt="udhay13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhay13&show_icons=true&locale=en" alt="udhay13" /></p>
 
