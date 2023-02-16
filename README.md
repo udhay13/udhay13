@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Udhayasurya</h1>
-<h3 align="left">Frond End Developer</h3>
+<h2 align="left">Frond End Developer</h2>
 <p align="left">I'm a passionate and self-motivated person who is very enthusiastic about acquiring new skills and upgrading my knowledge. I am eager to learn, grow, and contribute my unique blend of business and technical acumen to a dynamic and vibrant organization.</p>
 <img align="right" alt="Coding" width="150" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhay13&label=Profile%20views&color=0e75b6&style=flat" alt="udhay13" /> </p>
