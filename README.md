@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhay13&show_icons=true&locale=en" alt="udhay13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udhay13&" alt="udhay13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udhay13&theme=violet-punch&fire=EB6800" alt="udhay13" /></p>
