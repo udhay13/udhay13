@@ -25,10 +25,10 @@
 <p><a href="https://www.buymeacoffee.com/udhay13"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="udhay13" /></a></p><br><br><br>
 
 <h3 align="left">My Github Stat:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhay13&label=Profile%20views&color=0e75b6&style=flat" alt="udhay13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udhay13&label=Profile%20views&color=orange&style=plastic" alt="udhay13" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=udhay13&theme=juicyfresh&no-bg=true&margin-w=10&margin-h=15&column=7" alt="udhay13" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhay13&show_icons=true&locale=en" alt="udhay13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhay13&theme=highcontrast&show_icons=true&locale=en" alt="udhay13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udhay13&theme=violet-punch&fire=EB6800" alt="udhay13" /></p>
