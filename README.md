@@ -27,7 +27,7 @@
 <h3 align="left">My Github Stat:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udhay13&label=Profile%20views&color=0e75b6&style=flat" alt="udhay13" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)"><img src="https://github-profile-trophy.vercel.app/?username=udhay13" alt="udhay13" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=udhay13&theme=discord" alt="udhay13" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udhay13&show_icons=true&locale=en" alt="udhay13" /></p>
 
