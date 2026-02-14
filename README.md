@@ -90,20 +90,33 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udhay13&theme=algolia&no-frame=true&margin-w=10&title=Stars,Followers,Commits,Repositories" />
+
+  <img src="https://img.shields.io/github/followers/udhay13?label=Followers&style=for-the-badge&color=7F3FBF&logo=github" />
+
+  <img src="https://img.shields.io/github/stars/udhay13?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7F3FBF&logo=github" />
+
+  <img src="https://img.shields.io/github/repos/udhay13?style=for-the-badge&color=7F3FBF&logo=github" />
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-7F3FBF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-7F3FBF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/udhay13">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
