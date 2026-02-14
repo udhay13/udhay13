@@ -87,22 +87,20 @@
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/udhayasurya-kamaraj-a997201b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Udhayasurya_Kamaraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/udhayasurya-kamaraj-a997201b8/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:udhayasurya1323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-udhayasurya1323@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-
-  <a href="https://github.com/udhay13" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-udhay13-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/udhay13">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-
 </p>
 
 ---
