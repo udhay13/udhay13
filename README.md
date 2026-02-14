@@ -53,26 +53,29 @@
 # 📊 Analytics
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=udhay13&show_icons=true&theme=transparent&hide_border=true&title_color=7F3FBF&icon_color=7F3FBF&text_color=ffffff&bg_color=00000000&cache_seconds=1800" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhay13&layout=compact&theme=transparent&hide_border=true&title_color=7F3FBF&text_color=ffffff&bg_color=00000000&cache_seconds=1800" 
-    height="170"
-  />
+  
+  <!-- Profile Summary Card (Very Stable) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udhay13&theme=tokyonight" />
 
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=udhay13&theme=tokyo-night&hide_border=true&color=7F3FBF&line=7F3FBF&point=ffffff"
-  />
+
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udhay13&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udhay13&theme=tokyonight" />
+
 </p>
 
----
+<p align="center">
+
+  <!-- Stats Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udhay13&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udhay13&theme=tokyonight&utcOffset=5.5" />
+
+</p>
 
 # 🌟 What I Build
 
